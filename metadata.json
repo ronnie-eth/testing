@@ -1,0 +1,10 @@
+
+{
+  "name": "TESTING", 
+  "symbol": "TEST",
+  "uri": "TOKEN_URI",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
