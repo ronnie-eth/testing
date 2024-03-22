@@ -2,7 +2,7 @@
 {
   "name": "TESTING", 
   "symbol": "TEST",
-  "uri": "TOKEN_URI",
+  "uri": "https://github.com/ronnie-eth/testing/blob/e082596cd01c70158e45dafc830dc82b01fcbc0a/metadata.json",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
